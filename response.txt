@@ -1,0 +1,11 @@
+If your student asked "Where is CSS taught first?", I'd say don't worry, we've got this covered!
+
+From what I can see, CSS is actually introduced in multiple videos, but it's mainly explored in Video #2 and Video #14.
+
+In Video #14 (at around 48.52 seconds to be exact), the instructor talks about how CSS is written, which gives you a good foundation to start with.
+
+However, in Video #14 again (from 257.48 seconds to 259.48 seconds), they dive deeper into what CSS actually is and provide more insight on its usage.
+
+Additionally, while it's not exclusively focused on CSS, Video #8 does touch upon how to use CSS (from 503.0 seconds to 505.0 seconds).
+
+So, if you want to learn more about CSS from the start, I'd recommend checking out those videos, especially Video #2 and Video #14.
